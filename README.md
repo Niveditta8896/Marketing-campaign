@@ -1,4 +1,4 @@
-## Marketing Campaign Performance Dashboard
+# Marketing Campaign Performance Dashboard
 
 This project is a full-featured **interactive Excel dashboard** designed to track and analyze marketing campaign performance for newsletter-based businesses.
 
